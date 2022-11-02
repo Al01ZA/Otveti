@@ -12,4 +12,4 @@ https://drive.google.com/file/d/1tTtNBY9shxGxCchav1FpQrIRucT5I-xy/view?usp=drive
 
 https://docs.google.com/document/d/10sBJoVUOj0s-KG7Cyq1EenUsNhWYwadH4lM0EdZv3Qo/edit?usp=drivesdk# тренажер SQL 2.3 - 2.5
 
-https://docs.google.com/document/d/1878uNc0EhX8agK63SXNZ5iNx-26Ctod0CZb6q8UMeyg/edit?usp=sharing# скрипт-2 SQL
+
