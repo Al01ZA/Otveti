@@ -16,4 +16,4 @@ https://docs.google.com/document/d/1lhG6mP_Xj3M62Rpnfex5m8WDq-0XfYxK/edit?usp=sh
 
 https://docs.google.com/document/d/1BD1KnlEfL5493rb60cBiLLXlLQLCvs_z6k9chD9AEaw/edit?usp=drivesdk# тренажёр 3.1-4.4
 
-https://docs.google.com/document/d/1BD1KnlEfL5493rb60cBiLLXlLQLCvs_z6k9chD9AEaw/edit?usp=drivesdk# сертификат
+https://drive.google.com/file/d/1TWnkK2mMp4CY3FOTvqWZiXL5TToPRc1p/view?usp=drivesdk# сертификат
