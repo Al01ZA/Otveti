@@ -15,3 +15,5 @@ https://docs.google.com/document/d/10sBJoVUOj0s-KG7Cyq1EenUsNhWYwadH4lM0EdZv3Qo/
 https://docs.google.com/document/d/1lhG6mP_Xj3M62Rpnfex5m8WDq-0XfYxK/edit?usp=share_link&ouid=110415819422211131437&rtpof=true&sd=true# скрипты-2 SQL
 
 https://docs.google.com/document/d/1BD1KnlEfL5493rb60cBiLLXlLQLCvs_z6k9chD9AEaw/edit?usp=drivesdk# тренажёр 3.1-4.4
+
+https://docs.google.com/document/d/1BD1KnlEfL5493rb60cBiLLXlLQLCvs_z6k9chD9AEaw/edit?usp=drivesdk# сертификат
