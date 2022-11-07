@@ -13,3 +13,5 @@ https://drive.google.com/file/d/1tTtNBY9shxGxCchav1FpQrIRucT5I-xy/view?usp=drive
 https://docs.google.com/document/d/10sBJoVUOj0s-KG7Cyq1EenUsNhWYwadH4lM0EdZv3Qo/edit?usp=drivesdk# тренажер SQL 2.3 - 2.5
 
 https://docs.google.com/document/d/1lhG6mP_Xj3M62Rpnfex5m8WDq-0XfYxK/edit?usp=share_link&ouid=110415819422211131437&rtpof=true&sd=true# скрипты-2 SQL
+
+https://docs.google.com/document/d/1BD1KnlEfL5493rb60cBiLLXlLQLCvs_z6k9chD9AEaw/edit?usp=drivesdk# тренажёр 3.1-4.4
